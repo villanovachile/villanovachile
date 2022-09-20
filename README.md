@@ -1,4 +1,4 @@
-### Hi there 👋
+![hello world](/assets/images/header.gif)
 
 <!--
 **villanovachile/villanovachile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ⚡ I am a Happiness Engineer at [Automattic](https://automattic.com/)
+
+- 🌱 I’m currently learning JavaScript, React, and PHP by working on projects and bug fixes in Automattic's repos.
+
+- 🔭 My latest project is a WordPress plugin [Blocks for Discogs](https://wordpress.org/plugins/blocks-for-discogs/), and you can view the GitHub repo [here](https://github.com/villanovachile/blocks-for-discogs)
