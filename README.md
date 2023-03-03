@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript, React, and PHP by working on projects and bug fixes in Automattic's repos.
 
-- 🔭 My latest project is a WordPress plugin [Blocks for Discogs](https://wordpress.org/plugins/blocks-for-discogs/), and you can view the GitHub repo [here](https://github.com/villanovachile/blocks-for-discogs)
+- 🔭 My latest project is a WordPress plugin [Truth Talley bias ranker / list sorter](https://truthtally.danielr.io/), and you can view the GitHub repo [here](https://github.com/villanovachile/truthtally)
