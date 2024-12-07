@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ I am a Happiness Engineer at [Automattic](https://automattic.com/)
+- ⚡ I work in Escalated Developer Support at [Automattic](https://automattic.com/), where I solve complex issues for WordPress.com sites hosted on the WP Cloud platform and tackle cybersecurity challenges like cleaning malware and reporting vulnerabilities.
 
-- 🌱 I’m currently learning JavaScript, React, and PHP by working on projects and bug fixes in Automattic's repos.
+- 🌱 I’m currently expanding my skills in JavaScript, React, and PHP through hands-on projects and contributions to Automattic's repositories.
 
-- 🔭 My latest project is a WordPress plugin [Truth Talley bias ranker / list sorter](https://truthtallyranker.com/), and you can view the GitHub repo [here](https://github.com/villanovachile/truthtally)
+- 🔭 My latest project is a [Yara Python Scanner](https://github.com/villanovachile/yara-python-scanner), a tool for streamlining malware detection and threat analysis.
+
+- 🔍 I’m passionate about exploring the intersection of development and cybersecurity, and I love tackling new challenges to make the web safer and more accessible.
+
